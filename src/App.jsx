@@ -4,23 +4,23 @@ import FollowCard from './FollowCard'
 function App() {
   const users = [
     {
-      userName: 'midudev',
-      name: 'Miguel Ángel Durán',
+      userName: 'debiabril',
+      name: 'Débora Abril Badosa',
       isFollowing: true
     },
     {
-      userName: 'pheralb',
-      name: 'Pablo H.',
+      userName: 'javi',
+      name: 'Javier',
       isFollowing: false
     },
     {
-      userName: 'PacoHdezs',
-      name: 'Paco Hdez',
+      userName: 'csr_acosta',
+      name: 'César',
       isFollowing: true
     },
     {
-      userName: 'TMChein',
-      name: 'Tomas',
+      userName: 'LucasBadosa',
+      name: 'Lucas Badosa',
       isFollowing: false
     }
   ]
